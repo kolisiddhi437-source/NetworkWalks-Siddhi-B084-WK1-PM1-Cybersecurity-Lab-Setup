@@ -7,7 +7,7 @@ This is my week-1 project.
 > **Platform:** Oracle VirtualBox + Kali Linux  
 > **Host OS:** Windows  
 > **Status:** Successfully Installed and Configured  
-> **Author:** Kshitij Kiran Koli  
+> **Author:** Siddhi Kiran Koli  
 > **Date:** October 2026
 
 ---
