@@ -1,7 +1,5 @@
 # NetworkWalks-Siddhi-B084-WK1-PM1-Cybersecurity-Lab-Setup
 This is my week-1 project.
-# NetworkWalks-Kshitij-B084-WK1-PM1-Cybersecurity-Lab-Setup
-This is my Cybersecurity lab setup, done under project module of week-1 of internship at NetworkWalks.
 
 # Cybersecurity Testing Lab Setup – VirtualBox + Kali Linux
 
